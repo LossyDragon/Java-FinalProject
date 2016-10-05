@@ -1,3 +1,8 @@
+# Information.
+This project was from the Fall 2015 Semester for Java II (CIS-175). This was a group project with a fellow classmate, CHADALAK1.
+
+'This' commit was the final to be turned in for a grade. It maybe updated/polished in the future for just a hobby now.
+
 # FinalProject
 
 This is a 2D Text base dungeon crawler. The goal is to get the keys to destroy the final boss. Look at Instructions for legend and a 'How To' for controls.
